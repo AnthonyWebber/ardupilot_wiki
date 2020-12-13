@@ -1,7 +1,7 @@
-.. _adding-a-new-library-to-the-code:
+.. _adding-a-new-library-to-Waf:
 
 =========
-Adding a new library to the code
+Adding a new library to Waf
 =========
 
 The `waf <https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md>`__ build system makes this very simple.
