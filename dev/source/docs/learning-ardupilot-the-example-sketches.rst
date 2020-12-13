@@ -156,3 +156,5 @@ commented. This is your opportunity to make a contribution to the code!
 As you read through the example sketches and explore how they work add
 some comments to the code to explain the APIs and then :ref:`submit a pull request <submitting-patches-back-to-master>` so others can
 benefit from your study.
+
+Testing and edit.
