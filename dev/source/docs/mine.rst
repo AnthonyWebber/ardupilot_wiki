@@ -1,7 +1,7 @@
-.. _building your own library:
+.. _add new library to the waf build system:
 
 =========
-Big title
+Add a new library to the waf build system
 =========
 
 Medium title
