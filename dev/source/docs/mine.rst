@@ -1,16 +1,14 @@
 .. _add new library to the waf build system:
 
 =========
-Add a new library to the waf build system
+Adding a new library to the code
 =========
 
-Medium title
----------------------------------
+That waf& build system makes this very simple.
 
-Once you have learned the basic of the ArduPilot libraries it is time
-for you to understand how ArduPilot deals with threading. The
-setup()/loop() structure that was inherited from arduino may make it
-seem that ArduPilot is a single threaded system, but in fact it isn't.
+Assuming that your new library code is in folder 'ardupilot/library/AP_NewLibrary', do one of the following:
+
+
 
 The threading approach in ArduPilot depends on the board it is built
 for. Some boards (such as the APM1 and APM2) don't support threads, so
