@@ -1,12 +1,17 @@
-.. _add new library to the waf build system:
+.. _adding-a-new-library-to-the-code:
 
 =========
 Adding a new library to the code
 =========
 
-That waf& build system makes this very simple.
+The `waf <https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md>`__ build system makes this very simple.
 
-Assuming that your new library code is in folder 'ardupilot/library/AP_NewLibrary', do one of the following:
+Assuming that your new library code is in folder 'ardupilot/library/MyNewLibrary', do one of the following:
+
+1) If it's specific to a particular vehicle type, add it to:
+
+
+2) If it's applicable to all vehicles, add it to:
 
 
 
