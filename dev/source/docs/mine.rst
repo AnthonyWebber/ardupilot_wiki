@@ -10,6 +10,8 @@ Assuming that your new library code is in folder 'ardupilot/libraries/MyLibrary'
 
 - If it's specific to a particular vehicle type, add it here:
 
+https://github.com/AnthonyWebber/ardupilot/blob/master/ArduCopter/wscript#L10
+
 - If it's applicable to all vehicles, add it here:
 
 Be sure to ``waf configure`` and ``waf clean`` before building afresh.
