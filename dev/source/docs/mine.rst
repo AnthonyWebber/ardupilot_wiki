@@ -12,5 +12,4 @@ Assuming that your new library code is in folder 'ardupilot/library/MyLibrary', 
 
 - If it's applicable to all vehicles, add it here:
 
-
-Be sure to ```waf configure``` and `waf clean` before building.
+Be sure to ``waf configure`` and ``waf clean`` before building afresh.
